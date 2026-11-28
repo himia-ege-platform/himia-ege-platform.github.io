@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /exam/
+Sitemap: https://himia-ege-platform.github.io/sitemap.xml
